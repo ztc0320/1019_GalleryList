@@ -66,6 +66,7 @@ header#headerWrap {
   font-family: "Josefin Sans", sans-serif;
 }
 div#outerHeaderArea {
+  margin-bottom: 50px;
   background-color: #f1e7d5;
 }
 
@@ -263,3 +264,14 @@ div#sideMenuArea.sideMenuArea_Toggle {
 /* div#sideMenuArea end */
 
 /* div#sideMenuBG end */
+
+/* div#wrap start */
+div#wrap {
+  /* border: 1px solid #f00; */
+  width: 1020px;
+  margin: 0 auto;
+}
+div#goodsPartName {
+  font-size: 20px;
+}
+/* div#wrap end */
